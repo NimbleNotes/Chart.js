@@ -50,6 +50,8 @@
   },
   "dependencies": {
     "chartjs-color": "^2.0.0",
-    "moment": "^2.10.6"
+    "moment": "^2.10.6",
+    "semver": "^3.0.1",
+    "spacejam": "^1.1.4"
   }
 }
